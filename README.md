@@ -26,10 +26,29 @@ How to run the game:
 3. Go to Modify options.
 4. then add <--module-path "Your JavaFx SDK lib directory" --add-modules javafx.controls,javafx.fxml> at the     place of "VM Option".
 5. then press apply and ok.
-
+//Sorry for poor quality of images:
 
 
 ![p1](https://user-images.githubusercontent.com/95052507/155701612-05cd1dfc-237f-4d0f-8e1a-42cc05516256.png)
+
+
+
+
+
 ![P2](https://user-images.githubusercontent.com/95052507/155701618-de78d981-64b5-4ba7-8b7f-f5619a6c7eab.png)
+
+
+
+
+
 ![P3](https://user-images.githubusercontent.com/95052507/155701620-6cacc401-210a-472d-b30f-5798ab4d1ec9.png)
+
+
+
+
+
+
+
+
+
 ![P4](https://user-images.githubusercontent.com/95052507/155701621-398af052-dc95-4520-bad0-0e0a9ecd6487.png)
