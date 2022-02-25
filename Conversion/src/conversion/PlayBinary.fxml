@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="conversion.PlayBinaryController">
+   <children>
+      <Button layoutX="183.0" layoutY="106.0" mnemonicParsing="false" onAction="#playEasyAction" prefHeight="37.0" prefWidth="215.0" text="Easy" />
+      <Button layoutX="186.0" layoutY="175.0" mnemonicParsing="false" onAction="#playHardAction" prefHeight="37.0" prefWidth="215.0" text="Hard" />
+      <Button layoutX="462.0" layoutY="321.0" mnemonicParsing="false" onAction="#backEvent" prefHeight="37.0" prefWidth="82.0" text="Back" />
+   </children>
+</Pane>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="conversion.FinishController">
+   <children>
+      <Label layoutX="155.0" layoutY="48.0" prefHeight="38.0" prefWidth="258.0" text="Congratulations" textFill="#460606">
+         <font>
+            <Font name="Bradley Hand ITC" size="32.0" />
+         </font>
+      </Label>
+      <Label fx:id="yourTime" layoutX="155.0" layoutY="134.0" prefHeight="36.0" prefWidth="258.0" textFill="#460606">
+         <font>
+            <Font name="Bradley Hand ITC" size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="bestTime" layoutX="155.0" layoutY="182.0" prefHeight="36.0" prefWidth="258.0" textFill="#460606">
+         <font>
+            <Font name="Bradley Hand ITC" size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="highScoreLabel" layoutX="93.0" layoutY="233.0" prefHeight="36.0" prefWidth="413.0" textFill="#460606">
+         <font>
+            <Font name="Bradley Hand ITC" size="18.0" />
+         </font>
+      </Label>
+      <Button layoutX="429.0" layoutY="332.0" mnemonicParsing="false" onAction="#menuButtonEvent" prefHeight="25.0" prefWidth="94.0" text="Main Menu" />
+   </children>
+</Pane>

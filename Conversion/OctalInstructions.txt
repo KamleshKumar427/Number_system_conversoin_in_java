@@ -1,0 +1,17 @@
+Decimal to Octal Conversion.
+1: Divide the decimal value
+by 8.
+2: Note down the remainder and
+quotient as shown.
+Remainder will vary from 0-7.
+The process for octal conver-
+sion is same as for binary.
+3:Divide the quotient by 8 and
+repeat step 2.
+4: Repeat above mentioned steps
+until you get 0 as quotient.
+5.Octal code is then obtained
+by placing remainders in order
+with the first remainder at
+rightmost position and last
+remainder at leftmost position.

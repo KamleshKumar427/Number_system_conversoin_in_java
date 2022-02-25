@@ -1,0 +1,17 @@
+Decimal to Binary Conversion.
+1: Divide the decimal value
+by 2.
+2: Note down the remainder and
+quotient as shown.
+Variables A,B,C,D,E and F are
+used to represent remainder 10,
+11,12,13,14,15 respectively.
+3:Divide the quotient by 2 and
+repeat step 2.
+4: Repeat above mentioned steps
+until you get 0 as quotient.
+5.Binary code is then obtained
+by placing remainders in order
+with the first remainder at
+rightmost position and last
+remainder at leftmost position.
